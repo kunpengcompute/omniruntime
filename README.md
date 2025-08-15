@@ -27,3 +27,7 @@ OmniRuntime提供开源的大数据实时、离线统一的向量化加速方案
 ## 文档
 - 鲲鹏BoostKit大数据文档
 https://www.hikunpeng.com/document/detail/zh/kunpengbds/overview/kunpengbds.html
+
+
+## 许可协议 
+通过下载并使用此容器及其附带的软件，您即同意遵守软件许可协议中的条款和条件。
