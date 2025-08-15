@@ -1,13 +1,12 @@
 # OmniRuntim统一加速引擎
 OmniRuntime提供开源的大数据实时、离线统一的向量化加速方案。
-## OmniRuntime架构图
+## 架构图
 ![image.png](https://raw.gitcode.com/user-images/assets/7320433/0c7ce56f-0a6f-4a55-af3a-b72353dc897f/image.png 'image.png')
 
 
 
-## 社区
-鲲鹏社区首页
-- https://kunpeng-beta.rnd.huawei.com/developer/boostkit/big-data
+## 应用和部署
+- 要了解OmniRuntime应用和部署，请访问 https://kunpeng-beta.rnd.huawei.com/developer/boostkit/big-data。
 
 ## 离线批处理特性
 
@@ -25,9 +24,10 @@ OmniRuntime提供开源的大数据实时、离线统一的向量化加速方案
 
 
 ## 文档
-- 鲲鹏BoostKit大数据文档
-https://www.hikunpeng.com/document/detail/zh/kunpengbds/overview/kunpengbds.html
+OmniRuntime特性指南文档，可以访问：https://www.hikunpeng.com/document/detail/zh/kunpengbds/overview/kunpengbds.html
 
+## 讨论
+如果发现问题，请接入链接进行讨论：https://gitcode.com/BoostKit/omniruntime/discussions
 
 ## 许可协议 
 通过下载并使用此容器及其附带的软件，您即同意遵守软件许可协议中的条款和条件。
