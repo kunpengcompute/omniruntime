@@ -6,7 +6,7 @@ OmniRuntime提供开源的大数据实时、离线统一的向量化加速方案
 
 
 ## 应用和部署
-- 要了解OmniRuntime应用和部署，请访问 https://www.hikunpeng.com/document/detail/zh/kunpengbds/appAccelFeatures/sqlqueryaccelf/kunpengbds_omniruntime_20_0002.html。
+- 要了解OmniRuntime应用和部署，请访问[链接](https://www.hikunpeng.com/document/detail/zh/kunpengbds/appAccelFeatures/sqlqueryaccelf/kunpengbds_omniruntime_20_0002.html)。
 
 ## 离线批处理特性
 
