@@ -19,7 +19,7 @@ OmniRuntime提供开源的大数据实时、离线统一的向量化加速方案
 ## 实时流处理在线加速特性
 |  特性|特性介绍  |  
 |--|--|
-| [OmniStream](https://gitee.com/openeuler/OmniStream) | 采用C++结合向量化指令实现流式算子，以列式内存数据格式OmniVec进行内存计算，充分利用向量化指令加速，提升SQL计算性能 |  
+| [OmniStream](https://gitee.com/openeuler/OmniStream) | 采用C++结合向量化指令实现流式算子，以列式内存数据格式OmniVec进行内存计算，充分利用向量化指令加速，提升SQL计算性能。详细介绍请参考<b>[《OmniStream开源项目介绍》](https://www.hikunpeng.com/learn/courses-list/detail/1983343850145337345)</b>。 |  
 |[OmniStateStore](https://gitee.com/openeuler/OmniStateStore)  |互联网搜推大数据场景会产生的超大状态十几~几十TB的数据，Flink原生的后端状态存储采用RocksDB，在处理超大状态时有读写性能较差和CPU占用较高等瓶颈点，进而影响到Flink的作业处理时长。BoostStateStore作为高性能的状态存储加速组件，使用内存和NvmeSSD磁盘来构建状态存储访问加速层，并且通过优化LSM-Tree的compaction流程来降低CPU抖动对Flink作业执行的影响。  |  
 
 
