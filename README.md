@@ -33,7 +33,7 @@ OmniRuntime包括的子特性和已适配的开源组件及版本如[表1](#表1
 
 OmniRuntime架构图如下:
 
-<img src="framework.png" width="60%">
+<img src="./figures/framework-zh.png" width="60%">
 
 下面给出架构图的一些介绍，可以从社区主页直接获取一部分内容。
 
